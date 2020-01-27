@@ -1,7 +1,7 @@
 def using_while
   levitation_force = 6
 	
-  puts 
+  puts levitation_force 
 end
 
 
